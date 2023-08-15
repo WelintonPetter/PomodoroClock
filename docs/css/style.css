@@ -150,6 +150,7 @@ body {
 }
 .rodape{
   align-self: center;
+  text-align: center;
   color: var(--title-primary-color);
   font-size: 10px;
   padding-top:30px ;
